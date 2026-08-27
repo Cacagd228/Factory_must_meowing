@@ -1,0 +1,44 @@
+﻿# PrismLauncher instance - keep full assembly
+
+# Ignore logs and crash reports
+minecraft/logs/
+minecraft/crash-reports/
+minecraft/logs/
+logs/
+
+# Ignore saves (worlds) - keep structure but not content, uncomment if need to share saves
+minecraft/saves/
+# To share example saves, use !minecraft/saves/README.md
+
+# Cache and temp
+minecraft/cache/
+minecraft/.cache/
+minecraft/downloads/
+minecraft/local/
+minecraft/.fabric/
+minecraft/.sable/
+cache/
+tmp/
+
+# Screenshots
+minecraft/screenshots/
+screenshots/
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# PrismLauncher cache
+.mmc-private/
+
+# Keep mods jars (full assembly requested) - do not ignore
+!minecraft/mods/*.jar
+
+minecraft/usercache.json
+minecraft/usernamecache.json
