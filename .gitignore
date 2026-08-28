@@ -60,3 +60,6 @@ minecraft/options.txt
 # Explicitly track resource and shader packs
 !minecraft/resourcepacks/
 !minecraft/shaderpacks/
+
+# Exclude source code of custom mods from modpack git
+WorldGen/
