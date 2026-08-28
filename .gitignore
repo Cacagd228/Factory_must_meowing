@@ -42,3 +42,14 @@ desktop.ini
 
 minecraft/usercache.json
 minecraft/usernamecache.json
+
+# Runtime / generated cache - do not commit
+minecraft/.mixin.out/
+minecraft/command_history.txt
+minecraft/ponders_watched.json
+minecraft/panoptic/
+minecraft/kjsgen/
+minecraft/config/jei/
+minecraft/config/kjsigrm-common.toml
+minecraft/config/panoptic-common.toml
+minecraft/config/panoptic/
