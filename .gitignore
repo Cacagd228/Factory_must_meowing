@@ -1,4 +1,4 @@
-﻿# PrismLauncher instance - keep full assembly
+# PrismLauncher instance - keep full assembly
 
 # Ignore logs and crash reports
 minecraft/logs/
@@ -53,3 +53,10 @@ minecraft/config/jei/
 minecraft/config/kjsigrm-common.toml
 minecraft/config/panoptic-common.toml
 minecraft/config/panoptic/
+
+# Ignore user options
+minecraft/options.txt
+
+# Explicitly track resource and shader packs
+!minecraft/resourcepacks/
+!minecraft/shaderpacks/
