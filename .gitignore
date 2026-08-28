@@ -65,3 +65,5 @@ minecraft/config/packetfixer.properties
 
 # Exclude source code of custom mods from modpack git
 WorldGen/
+minecraft/config/iris.properties
+minecraft/config/packetfixer.properties
