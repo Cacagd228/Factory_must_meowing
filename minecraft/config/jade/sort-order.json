@@ -1,4 +1,10 @@
 {
+  "create_rns:deposit_block_info": null,
+  "fluidlogistics:connected_fluid_source": null,
+  "fluidlogistics:contraption_multi_fluid_tank": null,
+  "fluidlogistics:multi_fluid_tank": null,
+  "fluidlogistics:package_fluid_storage": null,
+  "fluidlogistics:package_item_storage": null,
   "jade:block_face": null,
   "jade:block_properties": null,
   "jade:block_states": null,
@@ -70,5 +76,6 @@
   "minecraft:total_enchantment_power": null,
   "minecraft:villager_profession": null,
   "minecraft:waxed": null,
-  "minecraft:zombie_villager": null
+  "minecraft:zombie_villager": null,
+  "waterwheelbearing:wheel_bearing": null
 }
