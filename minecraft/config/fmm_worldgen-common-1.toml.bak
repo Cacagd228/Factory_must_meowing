@@ -5,67 +5,67 @@
 
 	[general.small_islands]
 		#Grid spacing (cell size in blocks) for small island distribution.
-		#Default: 750.0 (Spacious ocean distance between small islands)
-		# Default: 750.0
-		# Range: 64.0 ~ 8192.0
+		#Default: 320.0 (Average distance between small island candidates)
+		# Default: 320.0
+		# Range: 64.0 ~ 4096.0
 		grid_size = 750.0
 		#Minimum radius for small islands (diameter = 2 * radius).
 		#Default: 75.0 (Min Diameter = 150 blocks)
 		# Default: 75.0
-		# Range: 10.0 ~ 1000.0
+		# Range: 10.0 ~ 500.0
 		min_radius = 75.0
 		#Maximum radius for small islands (diameter = 2 * radius).
 		#Default: 87.5 (Max Diameter = 175 blocks)
 		# Default: 87.5
-		# Range: 10.0 ~ 1000.0
+		# Range: 10.0 ~ 500.0
 		max_radius = 87.5
 		#Spawn probability of small islands per grid cell (0.0 to 1.0).
-		#Default: 0.40 (40% spawn chance per 750-block cell)
-		# Default: 0.4
+		#Default: 0.50 (50% of the island population)
+		# Default: 0.5
 		# Range: 0.0 ~ 1.0
 		spawn_chance = 0.4
 
 	[general.medium_islands]
 		#Grid spacing (cell size in blocks) for medium island distribution.
-		#Default: 1400.0 (Spacious ocean distance between medium islands)
-		# Default: 1400.0
-		# Range: 128.0 ~ 8192.0
+		#Default: 520.0 (Average distance between medium island candidates)
+		# Default: 520.0
+		# Range: 128.0 ~ 4096.0
 		grid_size = 1400.0
 		#Minimum radius for medium islands (diameter = 2 * radius).
 		#Default: 125.0 (Min Diameter = 250 blocks)
 		# Default: 125.0
-		# Range: 20.0 ~ 2000.0
+		# Range: 20.0 ~ 1000.0
 		min_radius = 125.0
 		#Maximum radius for medium islands (diameter = 2 * radius).
 		#Default: 175.0 (Max Diameter = 350 blocks)
 		# Default: 175.0
-		# Range: 20.0 ~ 2000.0
+		# Range: 20.0 ~ 1000.0
 		max_radius = 175.0
 		#Spawn probability of medium islands per grid cell (0.0 to 1.0).
-		#Default: 0.35 (35% spawn chance per 1400-block cell)
+		#Default: 0.35 (35% of the island population)
 		# Default: 0.35
 		# Range: 0.0 ~ 1.0
 		spawn_chance = 0.35
 
 	[general.large_islands]
 		#Grid spacing (cell size in blocks) for large island distribution.
-		#Default: 2400.0 (Spacious distance between grand continents)
-		# Default: 2400.0
-		# Range: 256.0 ~ 16384.0
+		#Default: 800.0 (Average distance between large island candidates)
+		# Default: 800.0
+		# Range: 256.0 ~ 8192.0
 		grid_size = 2400.0
 		#Minimum radius for large islands (diameter = 2 * radius).
 		#Default: 187.5 (Min Diameter = 375 blocks)
 		# Default: 187.5
-		# Range: 50.0 ~ 4000.0
+		# Range: 50.0 ~ 2000.0
 		min_radius = 187.5
 		#Maximum radius for large islands (diameter = 2 * radius).
 		#Default: 212.5 (Max Diameter = 425 blocks)
 		# Default: 212.5
-		# Range: 50.0 ~ 4000.0
+		# Range: 50.0 ~ 2000.0
 		max_radius = 212.5
 		#Spawn probability of large islands per grid cell (0.0 to 1.0).
-		#Default: 0.30 (30% spawn chance per 2400-block cell)
-		# Default: 0.3
+		#Default: 0.15 (15% of the island population)
+		# Default: 0.15
 		# Range: 0.0 ~ 1.0
 		spawn_chance = 0.3
 
