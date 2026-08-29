@@ -1,9 +1,0 @@
-[18:29:30] [main/INFO]: Found library file "sodium-neoforge-0.8.13-beta.2+mc1.21.1.jar" [locator: {mods folder locator at D:\Games\Minecraft\XMLC\instances\FMM\mods}, reader: mod manifest]
-[18:29:32] [main/WARN]: Attempted to select a dependency jar for JarJar which was passed in as source: sodium. Using Mod File: D:\Games\Minecraft\XMLC\instances\FMM\mods\sodium-neoforge-0.8.13-beta.2+mc1.21.1.jar
-[18:29:32] [main/INFO]: Found mod file "fabric-renderer-api-v1-3.4.1+9125b6dc19.jar" [parent: sodium-neoforge-0.8.13-beta.2+mc1.21.1.jar, locator: jarinjar, reader: mod manifest]
-[18:29:32] [main/INFO]: Found mod file "fabric-block-view-api-v2-1.0.10+9afaaf8c19.jar" [parent: sodium-neoforge-0.8.13-beta.2+mc1.21.1.jar, locator: jarinjar, reader: mod manifest]
-[18:29:32] [main/INFO]: Found mod file "fabric-api-base-0.4.42+d1308ded19.jar" [parent: sodium-neoforge-0.8.13-beta.2+mc1.21.1.jar, locator: jarinjar, reader: mod manifest]
-[18:29:32] [main/INFO]: Found mod file "fabric-rendering-data-attachment-v1-0.3.48+73761d2e19.jar" [parent: sodium-neoforge-0.8.13-beta.2+mc1.21.1.jar, locator: jarinjar, reader: mod manifest]
-		Sodium 0.8.13-beta.2+mc1.21.1 (sodium)
-[18:29:37] [main/WARN]: Reference map 'bobby-sodium06-compat.refmap.json' for bobby-sodium06-compat.mixins.json could not be read. If this is a development environment you can ignore this message
-[18:29:37] [main/WARN]: Reference map 'bobby-sodium08-compat.refmap.json' for bobby-sodium08-compat.mixins.json could not be read. If this is a development environment you can ignore this message
