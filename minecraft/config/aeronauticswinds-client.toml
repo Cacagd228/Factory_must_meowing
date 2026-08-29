@@ -3,7 +3,7 @@
 	#Enable dynamic seasonal color transitions for foliage, leaves, and grass.
 	enableSeasonalFoliage = true
 	#Render regional 3D clouds and replace vanilla clouds.
-	enableCustomClouds = true
+	enableCustomClouds = false
 	#Stop rendering Aeronautics clouds above this camera Y; useful for space gameplay.
 	# Default: 512.0
 	# Range: 192.0 ~ 100000.0
