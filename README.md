@@ -1,101 +1,103 @@
-﻿# Factory must meowing - PrismLauncher 1.21.1 NeoForge 21.1.248
+# Factory must meowing (FMM)
 
-Полная сборка для PrismLauncher. Включает все \minecraft/mods/*.jar\ (~80 МБ).
+> **Платформа:** Minecraft 1.21.1 | **Загрузчик:** NeoForge 21.1.248 | **Лаунчер:** PrismLauncher
 
-## Быстрый старт (разработчик)
+**Factory must meowing** — индустриально-исследовательская сборка модов, построенная вокруг экосистемы **Create 0.6**, полноценной физики воздушных и морских судов (**Create Aeronautics**, **Aeroworks**, **Create Submarine**), артиллерии (**Create Big Cannons**), кастомной архипелажной генерации мира (**FMMWorldgen**), экономики и уюта.
 
-1. Клонируй репу рядом с PrismLauncher:
-\\\ash
-git clone <repo> "Factory must meowing"
-\\\
-2. В PrismLauncher: Add Instance -> Import -> выбери папку \Factory must meowing\ (определится по \mmc-pack.json\ / \instance.cfg\).
-3. Запусти - Java 21 берётся из \PrismLauncher/java/java-runtime-delta/bin/javaw.exe\ (\instance.cfg:JavaPath\), \Xmx 8096\ (\instance.cfg:MaxMemAlloc\).
+---
 
-## Структура
+## 🌟 Ключевые особенности
 
-\\\
+### 1. Инженерия, Физика и Транспорт
+- **Create 0.6 & Addons**: Кинетическая энергия, конвейеры, фабрики, поезда и комплексная автоматизация.
+- **Авиация и Флот**: Создание управляемых дирижаблей, самолетов и кораблей благодаря **Create Aeronautics**, **Aeroworks**, **Aeronautics Winds** и **Create Submarine**.
+- **Вооружение и Артиллерия**: Сборка кастомных пушек и орудий с **Create Big Cannons**, перестрелки со **Scorched Guns**, радары и системы наведения (**Create Radar**, **Warnautics**).
+- **Энергетика и Логистика**: Дизельные двигатели (**Create Diesel Generators**), электросети (**Power Grid**), радиоуправление (**Create Radiologistics**) и параллельные трубопроводы.
+
+### 2. Кастомный мир: Архипелаг (FMMWorldgen)
+- Мир генерируется в виде бескрайнего океана с группами островов разного масштаба (центральный спавн-остров радиусом 100-130 блоков, крупные и средние архипелаги).
+- Логистика между островами требует постройки флота, дирижаблей или прокладки железнодорожных и воздушных путей.
+
+### 3. Автоматизация и Вычисления
+- **CC: Tweaked (ComputerCraft)**: Программируемые компьютеры, мониторы и черепашки для автоматизации заводов и управления техникой.
+- **Интеграции**: Связка компьютеров с механизмами Create и орудийными системами через специализированные адаптеры.
+
+### 4. Уют, Кулинария и Строительство
+- Полная линейка модов **[Let's Do]**: *Beachparty*, *Meadow*, *Blooming Nature*, *Farm & Charm*, *Furniture*, *Hearth & Timber*, *Herbal Brews*, *Lili's Pottery*.
+- Огромный выбор строительных блоков и декора: **Chipped**, **Rechiseled**, **Create Deco**, **Interiors**, **Fairy Lights**.
+- Артефакты и реликвии: **Relics**, **Artifacts**, **Curios API**.
+
+### 5. Экономика и Квесты
+- Монеты, торговые терминалы и рынки (**Create Numismatics**, **Trading Floor**, **Create Marketplace**).
+- Квестовые цепочки и кастомный интерфейс (**FTB Quests**, **Panoptic API**).
+
+### 6. Производительность и Графика
+- Современный рендер-стек: **Sodium (NeoForge)** + **Iris** (поддержка шейдеров) + **Sodium Extra**.
+- Глубокая оптимизация тиков и памяти: **Lithium**, **FerriteCore**, **ModernFix**, **ImmediatelyFast**, **EntityCulling**, **C2ME** (многопоточная генерация мира).
+
+---
+
+## 📋 Системные требования
+
+| Параметр | Минимальные | Рекомендуемые |
+|---|---|---|
+| **Версия Java** | Java 21 (64-bit) | Java 21 (Temurin / Microsoft OpenJDK) |
+| **Выделенная память (RAM)** | 6144 MB (6 GB) | 8192 MB (8 GB) |
+| **Видеокарта** | Поддержка OpenGL 4.5 | Дискретная GPU (GTX 1060 / RX 580 или новее) |
+| **Лаунчер** | PrismLauncher / PolyMC | PrismLauncher (v9.0+) |
+
+---
+
+## 🚀 Быстрый старт и запуск
+
+### Установка через PrismLauncher
+
+1. **Клонирование репозитория:**
+   Склонируйте репозиторий в удобную папку:
+   ```bash
+   git clone https://github.com/Cacagd228/Factory_must_meowing.git "Factory must meowing"
+   ```
+
+2. **Импорт сборки в PrismLauncher:**
+   - Откройте PrismLauncher.
+   - Нажмите **Добавить сборку** (Add Instance) -> **Импорт** (Import) -> Выберите папку сборки (или укажите путь к экземпляру).
+   - Лаунчер автоматически распознает `mmc-pack.json` и `instance.cfg`.
+
+3. **Проверка Java и памяти:**
+   - Перейдите в **Настройки сборки** -> **Java**.
+   - Убедитесь, что выбрана **Java 21**.
+   - Установите максимальный объем памяти: **8192 МБ** (минимум 6144 МБ).
+
+4. **Запуск:**
+   - Нажмите **Запуск** и наслаждайтесь игрой!
+
+---
+
+## 📁 Структура проекта
+
+```
 Factory must meowing/
-├── mmc-pack.json          # Minecraft 1.21.1 + NeoForge 21.1.248 + LWJGL 3.3.3
-├── instance.cfg           # PrismLauncher настройки (Java, RAM, окно)
-├── .gitignore
-├── README.md
+├── mmc-pack.json          # Описание компонентов (Minecraft 1.21.1 + NeoForge 21.1.248)
+├── instance.cfg           # Настройки PrismLauncher (память, Java, JVM аргументы)
+├── README.md              # Документация сборки
+├── WorldGen/              # Исходный код встроенного мода генерации островов (FMMWorldgen)
+│   ├── src/main/java/     # IslandMathFunction & регистраторы плотности NeoForge
+│   └── build.gradle       # Сборка подмодуля генерации
 └── minecraft/
-    ├── mods/              # 17 jars (см. ниже) - коммитится полностью
-    ├── config/            # 25 конфигов (create, modernfix, sodium, sable...)
-    ├── kubejs/            # startup_scripts/main.js, client_scripts/main.js (примеры)
-    ├── defaultconfigs/    # дефолты модов
-    └── options.txt, icon.png
-\\\
+    ├── mods/              # Установленные модификации (.jar)
+    ├── config/            # Настройки модов, баланса и производительности
+    ├── kubejs/            # Скрипты KubeJS (рецепты, серверные и клиентские обработчики)
+    └── icon.png           # Иконка сборки в лаунчере
+```
 
-Не коммитится: \minecraft/logs/\, \crash-reports/\, \saves/\, \screenshots/\, \cache/\, \downloads/\.
+---
 
-## Список модов (minecraft/mods)
+## 🛠️ Разработка и модификация
 
-| Мод | Файл | Версия | Назначение |
-|-----|------|--------|------------|
-| Create | \create-1.21.1-6.0.10.jar\ | 6.0.10 | Ядро |
-| Create Aeronautics (bundled) | \create-aeronautics-bundled-1.21.1-1.3.1.jar\ | 1.3.1 | \eronautics\+\simulated\+\offroad\ jarJar |
-| Sable | \sable-neoforge-1.21.1-2.0.5.jar\ | 2.0.5 | Либа для Aeronautics (\PolyForm Shield\) |
-| Greate (патч) | \greate-0.0.46.jar\ | 0.0.46-1.21.1 | См. ниже |
-| KubeJS | \kubejs-neoforge-2101.7.2-build.374.jar\ | 374 | Скрипты |
-| KubeJS Create | \kubejs-create-neoforge-2101.3.1-build.18.jar\ | 18 | Интеграция |
-| JEI | \jei-1.21.1-neoforge-19.44.0.406.jar\ | 406 | Рецепты |
-| Sodium | \sodium-neoforge-0.8.13-beta.2+mc1.21.1.jar\ | beta.2 | Рендер |
-| Lithium | \lithium-neoforge-0.15.4+mc1.21.1.jar\ | 0.15.4 | Тики |
-| FerriteCore | \erritecore-7.0.3-neoforge.jar\ | 7.0.3 | Память |
-| ModernFix | \modernfix-neoforge-5.27.20+mc1.21.1.jar\ | 5.27.20 | Загрузка |
-| EntityCulling | \entityculling-neoforge-1.10.5-mc1.21.1.jar\ | 1.10.5 | Culling |
-| ImmediatelyFast | \ImmediatelyFast-NeoForge-1.6.12+1.21.1.jar\ | 1.6.12 | Batch |
-| Architectury | \rchitectury-13.0.11-neoforge.jar\ | 13.0.11 | Либа KubeJS |
-| Rhino | \hino-2101.2.8-build.91.jar\ | 91 | JS движок |
-| Cloth Config | \cloth-config-15.0.140-neoforge.jar\ | 15.0.140 | Конфиг |
-| Configuration | \configuration-neoforge-1.21.1-3.1.1.jar\ | 3.1.1 | Конфиг Greate/Sable |
-
-Транзитивно (внутри): \eil 4.3.2\, \	ransition 1.0.21\, \	render 1.0.15\, \lywheel 1.0.6\, \ponder 1.0.82\.
-
-## Dev гайд - как патчить Greate
-
-Исходник: https://github.com/GreateBeyondTheHorizon/Greate ветка \
-eo-1.21.1\.
-
-Патчи для 1.21.1 без GTCEu и без крафтов уже применены в \greate-0.0.46.jar\:
-
-1. Фикс версии конфига:
-   \gradle.properties:35\ \3.1.0-neoforge -> 3.1.1-neoforge\ (repsy.io: \configuration-1.21.1/3.1.1-neoforge/\)
-
-2. Сделать GTCEu optional:
-   - \src/main/templates/META-INF/neoforge.mods.toml:29\ \	ype=required -> optional\
-   - \uild.gradle:149\ \implementation gtceu/ldlib -> compileOnly\
-   - \Greate.java:64\ ленивый \GT_REGISTRATE = ModList.isLoaded("gtceu") ? GTRegistrate.create() : null\
-   - \Greate.java:98\ \FormattingUtil.toLowerCaseUnderscore -> path.toLowerCase().replaceAll\
-   - \Greate.java:102\ иконка \MILLSTONES[GTValues.UHV] -> AllBlocks.BRASS_CASING\
-   - \GreateAddon.java\ stub без \@GTAddon\
-   - \GreateRegistries.java:17\ ранний \eturn\ если \!isLoaded("gtceu")\
-
-3. Убрать крафты:
-   - \GreateRecipes.java:10\ \egister -> return\
-   - \GreateRecipeRemoval.java:17\ \egister -> return\
-   - \GreateItemApplicationRecipeGen.java:32\ \woodCasingIngredient -> null\
-   - \MixinBeltBlock.java\ удалены \greate\\/\greate\\ (\ChemicalHelper\), \MixinSteamEngineBlock.java:65\/\PlacementHelper:38\ stub
-
-4. Сборка:
-\\\ash
-git clone https://github.com/GreateBeyondTheHorizon/Greate.git
-git checkout neo-1.21.1
-# применить патчи выше + gradle.properties фикс
-./gradlew build --no-configuration-cache -x test
-# jar -> minecraft/mods/greate-0.0.46.jar
-\\\
-   Также нужен \mods/configuration-neoforge-1.21.1-3.1.1.jar\ (423 КБ) - иначе \NoClassDefFoundError: ConfigFormats\.
-
-5. Добавление мода:
-   - Скачай с Modrinth для \1.21.1 NeoForge\ (проверь \loaders=[neoforge]\, \game_versions=[1.21.1]\)
-   - Положи в \minecraft/mods/\, \git add minecraft/mods/новый.jar\, \git commit -m "add mod X 1.2.3"\
-
-6. Проверка:
-   - Удали \minecraft/logs/latest.log\, запусти Prism, проверь \latest.log:ERROR\ (бывшие падения: \ChemicalHelper\, \FormattingUtil\, \ConfigFormats\).
-
-## Примечания
-
-- \create-aeronautics-bundled\ уже содержит \simulated\+\offroad\, \sable\ отдельный обязателен (API: \oWaK0Q19:1.3.1 -> requires sable T9PomCSv\).
-- Sodium 0.8.13-beta конфликтует при \roken mod state\ - реальная причина в \Greate\, не в Sodium.
+- **KubeJS скрипты:** Расположены в `minecraft/kubejs/server_scripts/` и `minecraft/kubejs/startup_scripts/`.
+- **Сборка FMMWorldgen:** При изменении логики генерации островов в `WorldGen/` выполните:
+  ```bash
+  cd WorldGen
+  ./gradlew build
+  ```
+  Готовый `.jar` файл появится в `WorldGen/build/libs/`.
