@@ -1,1 +1,3 @@
-disabledMods = []
+disabledMods = [
+    ".*" # remove all advancements
+]
