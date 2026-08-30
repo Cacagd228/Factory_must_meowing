@@ -70821,6 +70821,30 @@
     "maxWaterDepth": 67,
     "implosionChance": 0.6
   },
+  "sophisticatedbackpacks:backpack": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "sophisticatedbackpacks:copper_backpack": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "sophisticatedbackpacks:diamond_backpack": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "sophisticatedbackpacks:gold_backpack": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "sophisticatedbackpacks:iron_backpack": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "sophisticatedbackpacks:netherite_backpack": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
   "struts:girder_strut_structure": {
     "maxWaterDepth": 67,
     "implosionChance": 0.6
