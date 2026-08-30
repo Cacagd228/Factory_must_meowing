@@ -45209,6 +45209,534 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
+  "farmersdelight:acacia_cabinet": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:apple_pie": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:bamboo_basket": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:bamboo_cabinet": {
+    "maxWaterDepth": 42,
+    "implosionChance": 0.75
+  },
+  "farmersdelight:beetroot_crate": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:birch_cabinet": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:black_canvas_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:black_canvas_wall_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:black_hanging_canvas_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:black_wall_hanging_canvas_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:blue_canvas_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:blue_canvas_wall_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:blue_hanging_canvas_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:blue_wall_hanging_canvas_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:brown_canvas_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:brown_canvas_wall_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:brown_hanging_canvas_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:brown_mushroom_colony": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:brown_wall_hanging_canvas_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:budding_tomatoes": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:cabbage_crate": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:cabbages": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:canvas_rug": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:canvas_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:canvas_wall_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:carrot_crate": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:cherry_cabinet": {
+    "maxWaterDepth": 42,
+    "implosionChance": 0.75
+  },
+  "farmersdelight:chocolate_pie": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:cooking_pot": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "farmersdelight:crimson_cabinet": {
+    "maxWaterDepth": 42,
+    "implosionChance": 0.75
+  },
+  "farmersdelight:cutting_board": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:cyan_canvas_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:cyan_canvas_wall_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:cyan_hanging_canvas_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:cyan_wall_hanging_canvas_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:dark_oak_cabinet": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:full_tatami_mat": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:gleaming_salad_block": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:gray_canvas_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:gray_canvas_wall_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:gray_hanging_canvas_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:gray_wall_hanging_canvas_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:green_canvas_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:green_canvas_wall_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:green_hanging_canvas_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:green_wall_hanging_canvas_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:half_tatami_mat": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:hanging_canvas_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:honey_glazed_ham_block": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:jungle_cabinet": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:light_blue_canvas_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:light_blue_canvas_wall_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:light_blue_hanging_canvas_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:light_blue_wall_hanging_canvas_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:light_gray_canvas_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:light_gray_canvas_wall_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:light_gray_hanging_canvas_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:light_gray_wall_hanging_canvas_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:lime_canvas_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:lime_canvas_wall_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:lime_hanging_canvas_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:lime_wall_hanging_canvas_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:magenta_canvas_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:magenta_canvas_wall_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:magenta_hanging_canvas_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:magenta_wall_hanging_canvas_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:mangrove_cabinet": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:oak_cabinet": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:onion_crate": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:onions": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:orange_canvas_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:orange_canvas_wall_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:orange_hanging_canvas_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:orange_wall_hanging_canvas_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:organic_compost": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:pink_canvas_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:pink_canvas_wall_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:pink_hanging_canvas_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:pink_wall_hanging_canvas_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:potato_crate": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:pumpkin_pie": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:purple_canvas_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:purple_canvas_wall_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:purple_hanging_canvas_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:purple_wall_hanging_canvas_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:red_canvas_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:red_canvas_wall_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:red_hanging_canvas_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:red_mushroom_colony": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:red_wall_hanging_canvas_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:rice": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:rice_bag": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:rice_bale": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:rice_panicles": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:rice_roll_medley_block": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:rich_soil": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:rich_soil_farmland": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:roast_chicken_block": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:rope": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:rope_fence": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:rope_fence_gate": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:safety_net": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:sandy_shrub": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:shepherds_pie_block": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:skillet": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "farmersdelight:spruce_cabinet": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:stove": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.6333333
+  },
+  "farmersdelight:straw_bale": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:stuffed_pumpkin_block": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:sweet_berry_cheesecake": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:tatami": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:tomato_crate": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:tomatoes": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:tomatoes_on_rope": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:wall_hanging_canvas_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:warped_cabinet": {
+    "maxWaterDepth": 42,
+    "implosionChance": 0.75
+  },
+  "farmersdelight:white_canvas_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:white_canvas_wall_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:white_hanging_canvas_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:white_wall_hanging_canvas_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:wild_beetroots": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:wild_cabbages": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:wild_carrots": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:wild_onions": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:wild_potatoes": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:wild_rice": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:wild_tomatoes": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:wooden_basket": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:yellow_canvas_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:yellow_canvas_wall_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:yellow_hanging_canvas_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "farmersdelight:yellow_wall_hanging_canvas_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
   "fluidlogistics:copper_basin": {
     "maxWaterDepth": 50,
     "implosionChance": 0.7
@@ -70820,6 +71348,30 @@
   "simulatedcoasters:rivet": {
     "maxWaterDepth": 67,
     "implosionChance": 0.6
+  },
+  "sophisticatedbackpacks:backpack": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "sophisticatedbackpacks:copper_backpack": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "sophisticatedbackpacks:diamond_backpack": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "sophisticatedbackpacks:gold_backpack": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "sophisticatedbackpacks:iron_backpack": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "sophisticatedbackpacks:netherite_backpack": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
   },
   "struts:girder_strut_structure": {
     "maxWaterDepth": 67,
