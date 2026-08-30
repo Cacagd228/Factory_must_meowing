@@ -1,0 +1,22 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "hexcasting:thehexbook": {
+      "viewedEntries": [
+        "hexcasting:items/functional_staves_1",
+        "hexcasting:casting/influences",
+        "hexcasting:casting/vectors",
+        "hexcasting:casting/101",
+        "hexcasting:patterns/consts",
+        "hexcasting:patterns/math",
+        "hexcasting:patterns/patterns_as_iotas",
+        "hexcasting:patterns/meta",
+        "hexcasting:items/slate",
+        "hexcasting:items/thought_knot"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

@@ -171,7 +171,7 @@
 	sailTurbulenceTorqueStrength = 1.0
 
 [weather]
-	enableWeatherRegions = true
+	enableWeatherRegions = false
 	# Default: 1024
 	# Range: 128 ~ 16384
 	weatherRegionSize = 1024
