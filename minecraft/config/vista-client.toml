@@ -79,6 +79,13 @@
 		linked_feed_display_mode = "CIPHERED"
 		#Attempts to disable iris shaders in the live feed view
 		iris_off_hack = true
+		#How Distant Horizons LODs are handled inside TV feeds and mirrors.
+		#OFF: compat does nothing, feeds render LODs just like your own view
+		#NO_LODS: no LODs at all in feeds
+		#LOW/MED/HIGH: lower the LOD quality drop-off. Careful, this is a global DH setting,
+		#so it lowers the quality of your own view too for as long as it's applied
+		#Allowed Values: OFF, NO_LODS, LOW, MED, HIGH
+		distant_horizons_LOD = "OFF"
 
 [picture_tape]
 	#How a picture is fitted onto the TV screen when the two don't have the same shape. STRETCH: distorts the picture to fill the screen. CONTAIN: shows all of it, leaving bars on the two shorter sides. COVER: fills the screen, cropping whatever sticks out. FIT_WIDTH / FIT_HEIGHT: match that side of the screen and let the other one bar or crop
