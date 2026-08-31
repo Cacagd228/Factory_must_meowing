@@ -4313,6 +4313,1022 @@
     "maxWaterDepth": 36,
     "implosionChance": 0.78
   },
+  "cbcmoreshells:airdropped_shrapnel_torpedo": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:airdropped_torpedo": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:ammo_rack": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "cbcmoreshells:antiair_he_shell": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:antiair_shrapnel_shell": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:antiblast_panel": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "cbcmoreshells:ap_super_heavy_shot": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:apbc_shell": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:apbc_shot": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:apfsds_shot": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:apfsds_shot_projectile": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "cbcmoreshells:aphe_bomb": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:aphe_bouncing_bomb": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:aphe_cannon_rocket": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:aphe_loitering_rocket": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:aphe_rocket": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:baguette_shot": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:baguette_shot_projectile": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "cbcmoreshells:baked_apfsds_shot": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:baked_apfsds_shot_projectile": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "cbcmoreshells:beef_noodle": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:brass_dual_cannon_barrel": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:brass_dual_cannon_chamber": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:brass_dual_cannon_charger": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:brass_dual_cannon_quickfiring_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:brass_dual_cannon_sliding_breech": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "cbcmoreshells:brass_single_cannon_barrel": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:brass_single_cannon_chamber": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:brass_single_cannon_magazine_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:brass_single_cannon_quickfiring_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:brass_single_cannon_sliding_breech": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "cbcmoreshells:bronze_dual_cannon_barrel": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:bronze_dual_cannon_chamber": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:bronze_dual_cannon_quickfiring_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:bronze_dual_cannon_sliding_breech": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "cbcmoreshells:bubble_drink": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:cannon_torpedo": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:cast_iron_dual_cannon_barrel": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:cast_iron_dual_cannon_chamber": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:cast_iron_dual_cannon_quickfiring_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:cast_iron_dual_cannon_sliding_breech": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "cbcmoreshells:command_deployer": {
+    "maxWaterDepth": 166,
+    "implosionChance": 0.05
+  },
+  "cbcmoreshells:command_displayer": {
+    "maxWaterDepth": 166,
+    "implosionChance": 0.05
+  },
+  "cbcmoreshells:deepwater_shrapnel_torpedo": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:depth_charge": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:dual_aphe_rocket": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:dual_he_rocket": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:early_torpedo": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:extended_antiair_he_shell": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:extended_ap_shot": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:gambler_medium_range_torpedo": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:he_bomb": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:he_bouncing_bomb": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:he_cannon_rocket": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:he_loitering_rocket": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:he_rocket": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:hesh_shell": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:highspeed_long_range_torpedo": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:highspeed_torpedo": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:incendiary_he_shell": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:inferior_he_shell": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:large_brass_dual_cannon_barrel": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:large_brass_dual_cannon_chamber": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:large_brass_dual_cannon_charger": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:large_brass_dual_cannon_quickfiring_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:large_brass_dual_cannon_sliding_breech": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "cbcmoreshells:large_brass_single_cannon_barrel": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:large_brass_single_cannon_chamber": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:large_brass_single_cannon_chamber_shielded": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:large_brass_single_cannon_magazine_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:large_brass_single_cannon_quickfiring_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:large_brass_single_cannon_sliding_breech": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "cbcmoreshells:large_slate_alloy_single_cannon_barrel": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:large_slate_alloy_single_cannon_chamber": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:large_slate_alloy_single_cannon_chamber_shielded": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:large_slate_alloy_single_cannon_quickfiring_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:large_slate_alloy_single_cannon_sliding_breech": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "cbcmoreshells:large_steel_dual_cannon_barrel": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:large_steel_dual_cannon_chamber": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:large_steel_dual_cannon_charger": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:large_steel_dual_cannon_quickfiring_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:large_steel_dual_cannon_sliding_breech": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "cbcmoreshells:large_steel_single_cannon_barrel": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:large_steel_single_cannon_chamber": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:large_steel_single_cannon_chamber_shielded": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:large_steel_single_cannon_quickfiring_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:large_steel_single_cannon_sliding_breech": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "cbcmoreshells:light_high_speed_torpedo": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:long_range_shrapnel_torpedo": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:long_range_torpedo": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:loot_barrel": {
+    "maxWaterDepth": 80,
+    "implosionChance": 0.52
+  },
+  "cbcmoreshells:medium_range_deepwater_torpedo": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:medium_range_deepwater_torpedo_typeb": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:medium_range_torpedo": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:medium_range_torpedo_typeb": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:military_slate_alloy_dual_cannon_barrel": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:military_slate_alloy_dual_cannon_chamber": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:military_slate_alloy_dual_cannon_quickfiring_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:military_slate_alloy_dual_cannon_sliding_breech": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "cbcmoreshells:military_slate_alloy_single_cannon_barrel": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:military_slate_alloy_single_cannon_chamber": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:military_slate_alloy_single_cannon_magazine_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:military_slate_alloy_single_cannon_quickfiring_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:military_slate_alloy_single_cannon_sliding_breech": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "cbcmoreshells:nether_steel_dual_cannon_barrel": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:nether_steel_dual_cannon_chamber": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:nether_steel_dual_cannon_quickfiring_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:nether_steel_dual_cannon_sliding_breech": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "cbcmoreshells:nethersteel_quickfiring_breech": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "cbcmoreshells:nethersteel_sliding_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:normal_antiair_he_shell": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:normal_antiair_he_shell_block": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "cbcmoreshells:normal_ap_shell": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:normal_ap_shell_block": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "cbcmoreshells:normal_ap_shot": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:normal_ap_shot_block": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "cbcmoreshells:normal_apbc_shell": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:normal_apbc_shell_block": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "cbcmoreshells:normal_he_shell": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:normal_he_shell_block": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "cbcmoreshells:normal_incendiary_he_shell": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:normal_incendiary_he_shell_block": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "cbcmoreshells:normal_sap_shell": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:normal_sap_shell_block": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "cbcmoreshells:primary_torpedo": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:racked_torpedo": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:reductive_highspeed_torpedo": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:reductive_long_range_torpedo": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:reductive_medium_range_torpedo": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:reinforced_long_range_torpedo": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:reinforced_medium_range_torpedo": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:reinforced_reductive_medium_range_torpedo": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:reinforced_reductive_short_range_torpedo": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:reinforced_short_range_torpedo": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:rosequartz_brass_dual_cannon_barrel": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:rosequartz_brass_dual_cannon_chamber": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:rosequartz_brass_dual_cannon_quickfiring_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:rosequartz_brass_dual_cannon_sliding_breech": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "cbcmoreshells:sap_shell": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:sharpnel_torpedo": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:shelless_ap_shot": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:shelless_he_shell": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:shelless_incendiary_he_shell": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:shelless_sap_shell": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:short_range_torpedo": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:slate_alloy_dual_cannon_barrel": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:slate_alloy_dual_cannon_chamber": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:slate_alloy_dual_cannon_charger": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:slate_alloy_dual_cannon_quickfiring_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:slate_alloy_dual_cannon_sliding_breech": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "cbcmoreshells:slate_alloy_single_cannon_barrel": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:slate_alloy_single_cannon_chamber": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:slate_alloy_single_cannon_magazine_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:slate_alloy_single_cannon_quickfiring_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:slate_alloy_single_cannon_sliding_breech": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "cbcmoreshells:slow_long_range_torpedo": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:steel_ammo_rack": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "cbcmoreshells:steel_dual_cannon_barrel": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:steel_dual_cannon_chamber": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:steel_dual_cannon_charger": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:steel_dual_cannon_quickfiring_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:steel_dual_cannon_sliding_breech": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "cbcmoreshells:steel_projectile_rack_barrel": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:steel_projectile_rack_chamber": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:steel_projectile_rack_quickfiring_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:steel_projectile_rack_sliding_breech": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "cbcmoreshells:steel_projectile_rack_stabilizer": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:steel_single_cannon_barrel": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:steel_single_cannon_chamber": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:steel_single_cannon_magazine_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:steel_single_cannon_quickfiring_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:steel_single_cannon_sliding_breech": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "cbcmoreshells:steel_torpedo_quickfiring_breech": {
+    "maxWaterDepth": 241,
+    "implosionChance": 0.05
+  },
+  "cbcmoreshells:steel_torpedo_sliding_breech": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "cbcmoreshells:steel_torpedo_tube_barrel": {
+    "maxWaterDepth": 241,
+    "implosionChance": 0.05
+  },
+  "cbcmoreshells:steel_torpedo_tube_chamber": {
+    "maxWaterDepth": 241,
+    "implosionChance": 0.05
+  },
+  "cbcmoreshells:torpedo_detection_device": {
+    "maxWaterDepth": 147,
+    "implosionChance": 0.12
+  },
+  "cbcmoreshells:tough_steel_dual_cannon_barrel": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:tough_steel_dual_cannon_chamber": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:tough_steel_dual_cannon_quickfiring_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:tough_steel_dual_cannon_sliding_breech": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "cbcmoreshells:ultraspeed_torpedo": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "cbcmoreshells:wide_brass_dual_cannon_barrel": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_brass_dual_cannon_chamber": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_brass_dual_cannon_charger": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_brass_dual_cannon_quickfiring_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_brass_dual_cannon_sliding_breech": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "cbcmoreshells:wide_brass_single_cannon_barrel": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_brass_single_cannon_chamber": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_brass_single_cannon_chamber_shielded": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_brass_single_cannon_magazine_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_brass_single_cannon_quickfiring_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_brass_single_cannon_sliding_breech": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "cbcmoreshells:wide_bronze_single_cannon_barrel": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_bronze_single_cannon_chamber": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_bronze_single_cannon_quickfiring_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_bronze_single_cannon_sliding_breech": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "cbcmoreshells:wide_cast_iron_single_cannon_barrel": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_cast_iron_single_cannon_chamber": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_cast_iron_single_cannon_quickfiring_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_cast_iron_single_cannon_sliding_breech": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "cbcmoreshells:wide_military_slate_alloy_dual_cannon_barrel": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_military_slate_alloy_dual_cannon_chamber": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_military_slate_alloy_dual_cannon_chamber_shielded": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_military_slate_alloy_dual_cannon_charger": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_military_slate_alloy_dual_cannon_quickfiring_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_military_slate_alloy_dual_cannon_sliding_breech": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "cbcmoreshells:wide_military_slate_alloy_single_cannon_barrel": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_military_slate_alloy_single_cannon_chamber": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_military_slate_alloy_single_cannon_chamber_shielded": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_military_slate_alloy_single_cannon_magazine_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_military_slate_alloy_single_cannon_quickfiring_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_military_slate_alloy_single_cannon_sliding_breech": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "cbcmoreshells:wide_nether_steel_dual_cannon_barrel": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_nether_steel_dual_cannon_chamber": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_nether_steel_dual_cannon_charger": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_nether_steel_dual_cannon_quickfiring_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_nether_steel_dual_cannon_sliding_breech": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "cbcmoreshells:wide_rosequartz_brass_dual_cannon_barrel": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_rosequartz_brass_dual_cannon_chamber": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_rosequartz_brass_dual_cannon_quickfiring_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_rosequartz_brass_dual_cannon_sliding_breech": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "cbcmoreshells:wide_slate_alloy_dual_cannon_barrel": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_slate_alloy_dual_cannon_chamber": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_slate_alloy_dual_cannon_chamber_shielded": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_slate_alloy_dual_cannon_charger": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_slate_alloy_dual_cannon_quickfiring_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_slate_alloy_dual_cannon_sliding_breech": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "cbcmoreshells:wide_slate_alloy_single_cannon_barrel": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_slate_alloy_single_cannon_chamber": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_slate_alloy_single_cannon_chamber_shielded": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_slate_alloy_single_cannon_magazine_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_slate_alloy_single_cannon_quickfiring_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_slate_alloy_single_cannon_sliding_breech": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "cbcmoreshells:wide_steel_dual_cannon_barrel": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_steel_dual_cannon_chamber": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_steel_dual_cannon_charger": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_steel_dual_cannon_quickfiring_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_steel_dual_cannon_sliding_breech": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "cbcmoreshells:wide_steel_single_cannon_barrel": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_steel_single_cannon_chamber": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_steel_single_cannon_magazine": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_steel_single_cannon_magazine_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_steel_single_cannon_quickfiring_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_steel_single_cannon_sliding_breech": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "cbcmoreshells:wide_tough_steel_dual_cannon_barrel": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_tough_steel_dual_cannon_chamber": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_tough_steel_dual_cannon_quickfiring_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_tough_steel_dual_cannon_sliding_breech": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "cbcmoreshells:wide_tough_steel_single_cannon_barrel": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_tough_steel_single_cannon_chamber": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_tough_steel_single_cannon_chamber_shielded": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_tough_steel_single_cannon_quickfiring_breech": {
+    "maxWaterDepth": 134,
+    "implosionChance": 0.2
+  },
+  "cbcmoreshells:wide_tough_steel_single_cannon_sliding_breech": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
   "ccomunityboxes:custom_fluid_block": {
     "maxWaterDepth": 300,
     "implosionChance": 0.05
@@ -47288,6 +48304,262 @@
   "gnkinetics:worm_gear": {
     "maxWaterDepth": 55,
     "implosionChance": 0.67
+  },
+  "harderdiesel:alkylate": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:artisan_high_octane_gasoline": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:aviation_fuel": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:benzene": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:butadiene": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:butane": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:butane_liquid": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:cracked_naphtha": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:cracking_reactor": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "harderdiesel:diesel_generator": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "harderdiesel:ethylene": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:fcc_gas": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:galvanized_reactor_tank": {
+    "maxWaterDepth": 90,
+    "implosionChance": 0.46
+  },
+  "harderdiesel:gas_generator": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "harderdiesel:gasoline_generator": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "harderdiesel:glycerol": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:heavy_gas_oil": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:heavy_sour_crude": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:heavy_sweet_crude": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:high_cetane_diesel": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:high_octane_gasoline": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:huge_diesel_generator": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "harderdiesel:huge_gas_generator": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "harderdiesel:huge_gasoline_generator": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "harderdiesel:huge_nitro_generator": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "harderdiesel:kerosene": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:large_diesel_generator": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "harderdiesel:large_gas_generator": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "harderdiesel:large_gasoline_generator": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "harderdiesel:large_nitro_generator": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "harderdiesel:light_cycle_oil": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:light_sour_crude": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:light_sweet_crude": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:low_cetane_diesel": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:low_octane_gasoline": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:lpg_liquid": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:mazut": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:medium_cetane_diesel": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:medium_sour_crude": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:medium_sweet_crude": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:mixed_nitroalkanes": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:molten_sulfur": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:naphtha": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:nitro_generator": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "harderdiesel:nitroethane": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:nitroglycerin": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:nitromethane": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:nitropropane": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:petroleum_gas": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:platinum_tank": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "harderdiesel:propane": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:propane_liquid": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:propylene": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:reformate": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:separator": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "harderdiesel:sour_kerosene": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:sour_naphtha": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:sulfuric_acid": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:tar": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:toluene": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:vacuum_gas_oil": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:vacuum_residue": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "harderdiesel:wear_resistant_tank": {
+    "maxWaterDepth": 90,
+    "implosionChance": 0.46
+  },
+  "harderdiesel:xylene": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
   },
   "hearth_and_timber:acacia_beam": {
     "maxWaterDepth": 20,
