@@ -19,11 +19,11 @@ minecraft/.fabric/
 minecraft/.sable/
 cache/
 tmp/
-
+minecraft/quickskin
 # Screenshots
 minecraft/screenshots/
 screenshots/
-
+minecraft/.sable
 # OS
 Thumbs.db
 .DS_Store
