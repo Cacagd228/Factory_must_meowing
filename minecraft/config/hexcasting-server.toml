@@ -4,6 +4,8 @@ actionDenyList = []
 villagersOffendedByMindMurder = true
 #Resource locations of dimensions you can't Blink or Greater Teleport in.
 tpDimDenyList = ["twilightforest:twilight_forest"]
+#Whether the Explosion spell should destroy blocks (true = TNT-like grief, false = only damage + fire)
+explosionDestroysBlocks = false
 
 [Spells]
 	#The maximum number of actions that can be executed in one tick, to avoid hanging the server.

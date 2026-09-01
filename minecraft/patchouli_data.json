@@ -13,7 +13,12 @@
         "hexcasting:patterns/patterns_as_iotas",
         "hexcasting:patterns/meta",
         "hexcasting:items/slate",
-        "hexcasting:items/thought_knot"
+        "hexcasting:items/thought_knot",
+        "hexcasting:basics/media",
+        "hexcasting:patterns/spells/daphnes_purification",
+        "hexcasting:patterns/spells/ovids_distillation",
+        "hexcasting:patterns/spells/lokis_gambit",
+        "hexcasting:patterns/spells/hermes_deception"
       ],
       "bookmarks": [],
       "completedManualQuests": []
