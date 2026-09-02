@@ -67,6 +67,8 @@ minecraft/config/packetfixer.properties
 WorldGen/
 minecraft/config/iris.properties
 minecraft/config/packetfixer.properties
+mmc-pack.json
+instance.cfg
 
 minecraft/.bobby/
 
