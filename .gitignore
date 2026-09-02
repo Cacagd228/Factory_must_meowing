@@ -65,6 +65,7 @@ minecraft/config/packetfixer.properties
 
 # Exclude source code of custom mods from modpack git
 WorldGen/
+FMMOriginsCore/
 minecraft/config/iris.properties
 minecraft/config/packetfixer.properties
 mmc-pack.json
