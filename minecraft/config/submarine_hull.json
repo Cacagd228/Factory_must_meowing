@@ -269,166 +269,6 @@
     "maxWaterDepth": 131,
     "implosionChance": 0.22
   },
-  "aeronauticswinds:anemometer": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.78
-  },
-  "aeronauticswinds:anemometer_rotor": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "aeronauticswinds:black_greenhouse_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "aeronauticswinds:blue_greenhouse_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "aeronauticswinds:brown_greenhouse_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "aeronauticswinds:canvas_sail_cloth": {
-    "maxWaterDepth": 9,
-    "implosionChance": 0.85
-  },
-  "aeronauticswinds:canvas_sail_tack": {
-    "maxWaterDepth": 9,
-    "implosionChance": 0.85
-  },
-  "aeronauticswinds:cotton_sail_cloth": {
-    "maxWaterDepth": 4,
-    "implosionChance": 0.85
-  },
-  "aeronauticswinds:cotton_sail_tack": {
-    "maxWaterDepth": 4,
-    "implosionChance": 0.85
-  },
-  "aeronauticswinds:creative_greenhouse_radiator": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
-  },
-  "aeronauticswinds:cyan_greenhouse_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "aeronauticswinds:fallen_leaves": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "aeronauticswinds:gray_greenhouse_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "aeronauticswinds:green_greenhouse_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "aeronauticswinds:greenhouse_door": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "aeronauticswinds:greenhouse_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "aeronauticswinds:greenhouse_radiator": {
-    "maxWaterDepth": 42,
-    "implosionChance": 0.75
-  },
-  "aeronauticswinds:grow_light": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "aeronauticswinds:infrared_grow_light": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "aeronauticswinds:keel": {
-    "maxWaterDepth": 141,
-    "implosionChance": 0.16
-  },
-  "aeronauticswinds:light_blue_greenhouse_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "aeronauticswinds:light_gray_greenhouse_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "aeronauticswinds:lime_greenhouse_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "aeronauticswinds:magenta_greenhouse_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "aeronauticswinds:mast": {
-    "maxWaterDepth": 25,
-    "implosionChance": 0.85
-  },
-  "aeronauticswinds:orange_greenhouse_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "aeronauticswinds:pink_greenhouse_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "aeronauticswinds:purple_greenhouse_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "aeronauticswinds:red_greenhouse_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "aeronauticswinds:rudder": {
-    "maxWaterDepth": 25,
-    "implosionChance": 0.848
-  },
-  "aeronauticswinds:rudder_rotor": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "aeronauticswinds:seasonal_dial": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "aeronauticswinds:seasonal_dial_pointer": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "aeronauticswinds:white_greenhouse_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "aeronauticswinds:wild_cotton": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "aeronauticswinds:wind_vane": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.78
-  },
-  "aeronauticswinds:wind_vane_rotor": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "aeronauticswinds:windcatcher_canvas": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "aeronauticswinds:yard": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "aeronauticswinds:yellow_greenhouse_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
   "aeroworks:control_desk": {
     "maxWaterDepth": 120,
     "implosionChance": 0.28
@@ -51392,6 +51232,178 @@
   "meadow:yellow_pine_sapling": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
+  },
+  "meowaddons:crushing_wheel_t1": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "meowaddons:crushing_wheel_t2": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "meowaddons:crushing_wheel_t3": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "meowaddons:crushing_wheel_t4": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "meowaddons:crushing_wheel_t5": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "meowaddons:crushing_wheel_t6": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "meowaddons:deployer_t1": {
+    "maxWaterDepth": 90,
+    "implosionChance": 0.46
+  },
+  "meowaddons:deployer_t2": {
+    "maxWaterDepth": 90,
+    "implosionChance": 0.46
+  },
+  "meowaddons:deployer_t3": {
+    "maxWaterDepth": 105,
+    "implosionChance": 0.37
+  },
+  "meowaddons:deployer_t4": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "meowaddons:deployer_t5": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "meowaddons:deployer_t6": {
+    "maxWaterDepth": 136,
+    "implosionChance": 0.19
+  },
+  "meowaddons:frame_andesite": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "meowaddons:frame_chromatic_compound": {
+    "maxWaterDepth": 75,
+    "implosionChance": 0.55
+  },
+  "meowaddons:frame_latun": {
+    "maxWaterDepth": 75,
+    "implosionChance": 0.55
+  },
+  "meowaddons:frame_refined_radiance": {
+    "maxWaterDepth": 75,
+    "implosionChance": 0.55
+  },
+  "meowaddons:frame_shadow_steel": {
+    "maxWaterDepth": 90,
+    "implosionChance": 0.46
+  },
+  "meowaddons:frame_steel": {
+    "maxWaterDepth": 90,
+    "implosionChance": 0.46
+  },
+  "meowaddons:interdimensional_transmitter": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "meowaddons:millstone_t1": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "meowaddons:millstone_t2": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "meowaddons:millstone_t3": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "meowaddons:millstone_t4": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "meowaddons:millstone_t5": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "meowaddons:millstone_t6": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "meowaddons:mixer_t1": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "meowaddons:mixer_t2": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "meowaddons:mixer_t3": {
+    "maxWaterDepth": 64,
+    "implosionChance": 0.615
+  },
+  "meowaddons:mixer_t4": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "meowaddons:mixer_t5": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "meowaddons:mixer_t6": {
+    "maxWaterDepth": 83,
+    "implosionChance": 0.505
+  },
+  "meowaddons:press_t1": {
+    "maxWaterDepth": 90,
+    "implosionChance": 0.46
+  },
+  "meowaddons:press_t2": {
+    "maxWaterDepth": 90,
+    "implosionChance": 0.46
+  },
+  "meowaddons:press_t3": {
+    "maxWaterDepth": 105,
+    "implosionChance": 0.37
+  },
+  "meowaddons:press_t4": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "meowaddons:press_t5": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "meowaddons:press_t6": {
+    "maxWaterDepth": 136,
+    "implosionChance": 0.19
+  },
+  "meowaddons:saw_t1": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.79
+  },
+  "meowaddons:saw_t2": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.79
+  },
+  "meowaddons:saw_t3": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.79
+  },
+  "meowaddons:saw_t4": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.79
+  },
+  "meowaddons:saw_t5": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.79
+  },
+  "meowaddons:saw_t6": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.79
   },
   "minecraft:acacia_button": {
     "maxWaterDepth": 5,
