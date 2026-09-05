@@ -154,3 +154,5 @@ minecraft/config/packetfixer.properties
 minecraft/config/flywheel-client.toml
 minecraft/config/flywheel-client-1.toml.bak
 minecraft/config/c2me.toml
+minecraft/config/quickskin-client.json
+minecraft/config/packetfixer.properties
