@@ -36081,6 +36081,26 @@
     "maxWaterDepth": 55,
     "implosionChance": 0.67
   },
+  "create_aeronautics_automated_logistics:advanced_transponder": {
+    "maxWaterDepth": 60,
+    "implosionChance": 0.64
+  },
+  "create_aeronautics_automated_logistics:airship_station": {
+    "maxWaterDepth": 105,
+    "implosionChance": 0.37
+  },
+  "create_aeronautics_automated_logistics:logistics_terminal": {
+    "maxWaterDepth": 90,
+    "implosionChance": 0.46
+  },
+  "create_aeronautics_automated_logistics:ship_transponder": {
+    "maxWaterDepth": 60,
+    "implosionChance": 0.64
+  },
+  "create_aeronautics_automated_logistics:train_station": {
+    "maxWaterDepth": 105,
+    "implosionChance": 0.37
+  },
   "create_aeronautics_toolgun:portable_structure_printer": {
     "maxWaterDepth": 46,
     "implosionChance": 0.725
@@ -42952,6 +42972,26 @@
   "createdeco:zinc_window_pane": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
+  },
+  "createdeliveryrequired:admin_market": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "createdeliveryrequired:contractor": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.76
+  },
+  "createdeliveryrequired:market": {
+    "maxWaterDepth": 141,
+    "implosionChance": 0.16
+  },
+  "createdeliveryrequired:p2p_link": {
+    "maxWaterDepth": 141,
+    "implosionChance": 0.16
+  },
+  "createdeliveryrequired:p2p_terminal": {
+    "maxWaterDepth": 141,
+    "implosionChance": 0.16
   },
   "createdieselgenerators:andesite_girder": {
     "maxWaterDepth": 67,
