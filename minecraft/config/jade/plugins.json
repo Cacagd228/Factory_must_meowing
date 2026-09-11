@@ -78,6 +78,9 @@
   "create_rns": {
     "deposit_block_info": true
   },
+  "supplementaries": {
+    "hat_stand": true
+  },
   "jade": {
     "coordinates.rel": false,
     "registry_name.special": false,

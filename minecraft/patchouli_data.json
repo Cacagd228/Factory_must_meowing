@@ -25,9 +25,17 @@
       "bookmarks": [],
       "completedManualQuests": []
     },
+    "meowhex:necronomicon": {
+      "viewedEntries": [],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
     "meowhex:thehexbook": {
       "viewedEntries": [
-        "meowhex:patterns/stackmanip"
+        "meowhex:patterns/stackmanip",
+        "meowhex:patterns/spells/basic",
+        "meowhex:patterns/spells/hermes_deception",
+        "meowhex:patterns/spells/lokis_gambit"
       ],
       "bookmarks": [],
       "completedManualQuests": []
